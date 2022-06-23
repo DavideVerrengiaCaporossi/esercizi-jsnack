@@ -1,4 +1,4 @@
-package Jana60;
+package jana60;
 
 import java.util.Scanner;
 

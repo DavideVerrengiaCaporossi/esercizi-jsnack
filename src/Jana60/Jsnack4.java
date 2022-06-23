@@ -1,4 +1,4 @@
-package Jana60;
+package jana60;
 
 public class Jsnack4 {
 
